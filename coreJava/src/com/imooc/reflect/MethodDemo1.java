@@ -35,7 +35,6 @@ public class MethodDemo1 {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} 
-     
 	}
 }
 class A{

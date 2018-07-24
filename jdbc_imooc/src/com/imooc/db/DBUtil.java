@@ -8,7 +8,7 @@ public class DBUtil {
 
 	private static final String URL="jdbc:mysql://127.0.0.1:3306/imooc?useUnicode=true&amp;characterEncoding=utf-8";
 	private static final String USER="root";
-	private static final String PASSWORD="";
+	private static final String PASSWORD="novacloud";
 	
 	private static Connection conn=null;
 	

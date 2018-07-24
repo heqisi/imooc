@@ -38,5 +38,4 @@ public class MethodDemo2 {
 			e.printStackTrace();
 		}
 	}
-
 }
